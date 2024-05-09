@@ -79,10 +79,6 @@ http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/48.m3u8
 http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/51.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png",HBO3
 http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/49.m3u8
-#EXTINF:-1 tvg-logo="",National Geographic HD
-
-#EXTINF:-1 tvg-logo="",National Geographic Wild
-
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/viasat3_wide.png",Viasat3 HD
 http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/118.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Viasat6-tp.png/800px-Viasat6-tp.png",Viasat6
