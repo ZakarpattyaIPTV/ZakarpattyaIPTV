@@ -21,6 +21,10 @@ http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/258.m3u8
 http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/368.m3u8
 #EXTINF:-1 tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/H%C3%ADr_TV.png/640px-H%C3%ADr_TV.png",HirTV
 http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/53.m3u8
+#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4739.png",ATV HD
+http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ATVSpirit_logo.png/250px-ATVSpirit_logo.png",ATV Spirit
+http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/34368.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6652.png",AMC HD
 http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN HD
@@ -97,7 +101,6 @@ http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/15.m3u8
 http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/60.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/8271.png",MATCH4
 http://magyar-iptv.club:8080/live/nT2E7qvn25/hVXv5jp2Nn/378.m3u8
-
 
 #EXTINF:-1 tvg-logo="",
 
