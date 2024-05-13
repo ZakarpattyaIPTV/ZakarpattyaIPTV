@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1 HD
-http://magyar-iptv.club:8080/live/55mVWjsfxa/MngwBS5aEy/62.m3u8f
+http://magyar-iptv.club:8080/live/55mVWjsfxa/MngwBS5aEy/62.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png",M2
 http://magyar-iptv.club:8080/live/55mVWjsfxa/MngwBS5aEy/64.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
