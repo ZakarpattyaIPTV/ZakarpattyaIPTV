@@ -6,7 +6,7 @@ http://magyar-iptv.club:8080/live/sDkj37Kk4J/fTwx66huZP/64.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
 http://magyar-iptv.club:8080/live/sDkj37Kk4J/fTwx66huZP/112.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/rtl_magyarorszag_2022_wide.png",RTL Klub HD
-http://magyar-iptv.club:8080/live/sDkj37Kk4J/fTwx66huZP/89.m3u8
+https://cdn.mediaklikk.org:443/rtl/0QjMxQjMyEjM
 #EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/d/d3/Dunatv_logo.png/1200px-Dunatv_logo.png",Duna HD
 http://magyar-iptv.club:8080/live/sDkj37Kk4J/fTwx66huZP/347.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://iconape.com/wp-content/files/wj/283944/png/283944.png",Duna World HD 
@@ -102,8 +102,8 @@ http://magyar-iptv.club:8080/live/sDkj37Kk4J/fTwx66huZP/60.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/8271.png",MATCH4
 http://magyar-iptv.club:8080/live/sDkj37Kk4J/fTwx66huZP/378.m3u8
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",rtl
+http://magyar-iptv.club:8080/live/sDkj37Kk4J/fTwx66huZP/89.m3u8
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-id="21-kanal-uzhgorod" tvg-logo="https://epgx.site/p/21-kanal-uzhgorod.png",TV21 UNGVAR
