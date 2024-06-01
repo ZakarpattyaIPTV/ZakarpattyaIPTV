@@ -21,7 +21,7 @@ http://magyar-iptv.club:8080/live/WXu7wxMJyz/WKgfJft2h9/58.m3u8
 http://magyar-iptv.club:8080/live/WXu7wxMJyz/WKgfJft2h9/368.m3u8
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/dikhtv_wide.png",Dikh TV
 http://magyar-iptv.club:8080/live/WXu7wxMJyz/WKgfJft2h9/11590.m3u8
-#EXTINF:-1 tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zenebutik_logo.svg/1200px-Zenebutik_logo.svg.png,Zenebutik
+#EXTINF:-1 tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zenebutik_logo.svg/2560px-Zenebutik_logo.png",Zenebutik
 http://magyar-iptv.club:8080/live/WXu7wxMJyz/WKgfJft2h9/123.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/H%C3%ADr_TV.png/640px-H%C3%ADr_TV.png",HirTV
