@@ -88,9 +88,9 @@ http://magyar-iptv.club:8080/live/WXu7wxMJyz/WKgfJft2h9/103.m3u8
 http://magyar-iptv.club:8080/live/WXu7wxMJyz/WKgfJft2h9/104.m3u8
 #EXTINF:-1 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/fishing-hunting.png",Fishing and Hunting
 http://magyar-iptv.club:8080/live/WXu7wxMJyz/WKgfJft2h9/46.m3u8
-#EXTINF:-1 tvg-logo="http://royal.mystatichost.com/tv_logok/Eurosport1.png",Eurosport1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.png",Eurosport1 HD
 http://magyar-iptv.club:8080/live/WXu7wxMJyz/WKgfJft2h9/30.m3u8
-#EXTINF:-1 tvg-logo="http://royal.mystatichost.com/tv_logok/Eurosport2.png",Eurosport2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/800px-Eurosport_2_Logo_2015.png",Eurosport2 HD
 http://magyar-iptv.club:8080/live/WXu7wxMJyz/WKgfJft2h9/32.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",Paramount Channel HD
 http://magyar-iptv.club:8080/live/WXu7wxMJyz/WKgfJft2h9/85.m3u8
