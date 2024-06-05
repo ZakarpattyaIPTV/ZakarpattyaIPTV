@@ -144,7 +144,7 @@ http://magyar-iptv.club:8080/live/D732ar2xrC/arEWrAK2yU/60.m3u8
 http://magyar-iptv.club:8080/live/D732ar2xrC/arEWrAK2yU/378.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/LifeTvlogo.png",LifeTv
 http://magyar-iptv.club:8080/live/D732ar2xrC/arEWrAK2yU/61.m3u8
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",dö
 http://magyar-iptv.club:8080/series/D732ar2xrC/arEWrAK2yU/153637.mkv
 #EXTINF:-1 tvg-logo="",
 
