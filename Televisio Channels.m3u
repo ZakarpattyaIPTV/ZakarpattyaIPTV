@@ -60,6 +60,16 @@ http://magyar-iptv.club:8080/live/D732ar2xrC/arEWrAK2yU/92.m3u8
 http://magyar-iptv.club:8080/live/D732ar2xrC/arEWrAK2yU/100.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Spiler2_2023_wide.png",Spíler2 HD
 http://magyar-iptv.club:8080/live/D732ar2xrC/arEWrAK2yU/101.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1280px-Filmbox_pl.png",Filmbox Basic
+http://magyar-iptv.club:8080/live/D732ar2xrC/arEWrAK2yU/40.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png",Filmbox Family
+http://magyar-iptv.club:8080/live/D732ar2xrC/arEWrAK2yU/42.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Filmbox_extra_pl.png/1024px-Filmbox_extra_pl.png",FilmBox Extra
+http://magyar-iptv.club:8080/live/D732ar2xrC/arEWrAK2yU/41.m3u8
+#EXTINF:-1 tvg-id="FilmboxStars.hu" tvg-name="FILMBOX STARS SD" timeshift="0" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/filmbox_stars_wide.png",FILMBOX STARS SD
+http://magyar-iptv.club:8080/live/D732ar2xrC/arEWrAK2yU/44.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FilmBoxPremium-logo.png",Filmbox Premium 
+http://magyar-iptv.club:8080/live/D732ar2xrC/arEWrAK2yU/43.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Film4_logo.png",Film4
 http://magyar-iptv.club:8080/live/D732ar2xrC/arEWrAK2yU/9214.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",Animal Planet HD
