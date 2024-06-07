@@ -145,7 +145,9 @@ http://magyar-iptv.club:8080/live/VcM52qsBDy/c3sb2TwUfZ/378.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/LifeTvlogo.png",LifeTv
 http://magyar-iptv.club:8080/live/VcM52qsBDy/c3sb2TwUfZ/61.m3u8
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",cobra kai
+http://magyar-iptv.club:8080/series/VcM52qsBDy/c3sb2TwUfZ/78590.mp4
+
 
 #EXTINF:-1 tvg-logo="https://epgx.site/p/21-kanal-uzhgorod.png",Ужгород 21
 rtmp://213.174.8.15:1935/live/danio
