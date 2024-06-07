@@ -147,14 +147,22 @@ http://magyar-iptv.club:8080/live/VcM52qsBDy/c3sb2TwUfZ/61.m3u8
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-id="8849" tvg-logo="https://epgx.site/p/21-kanal-uzhgorod.png",Ужгород 21
+#EXTINF:-1 tvg-logo="https://epgx.site/p/21-kanal-uzhgorod.png",Ужгород 21
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1 tvg-id="2194" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/1%2B1_Marafon_%282022%29.svg/512px-1%2B1_Marafon_%282022%29.svg.png",1+1 Марафон HD UA 
 https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-id="2195" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1200px-2%2B2_logo_2017.svg.png",2+2
-http://rr3.vipshara-iptv.com/~201cd2067ab813cddccc785b94cd3385727/27654/hls/pl.m3u8
+http://85.223.221.130:8000/play/a09w
 #EXTINF:-1  tvg-id="7843" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ICTV_2_%282022%29.svg/1200px-ICTV_2_%282022%29.svg.png",ICTV 2 HD
 http://ott.watch/stream/4LMG17SVYT/368.m3u8
-#EXTINF:-1 tvg-id="inter-plus-ua" tvg-logo="https://epgx.site/p/inter-plus-ua.png",INTER +
-http://ott.watch/stream/4LMG17SVYT/345.m3u8
+#EXTINF:-1  tvg-id="2210" tvg-logo="",Сонце
+http://84.200.70.180:4642/bysid/6920
+#EXTINF:-1  tvg-id="8855" tvg-logo="",Ми Україна HD
+https://ythls.armelin.one/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
+#EXTINF:-1  tvg-id="2079" tvg-logo="",5 Канал HD
+https://m3u8.ott.blue/watch/7/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1  tvg-id="2084" tvg-logo="",24 Канал
+http://85.223.221.130:8000/play/a09y
+#EXTINF:-1  tvg-id="" tvg-logo="",
 
+#EXTINF:-1 tvg-id="inter-plus-ua" tvg-logo="https://epgx.site/p/inter-plus-ua.png",INTER +
