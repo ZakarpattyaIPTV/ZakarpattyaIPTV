@@ -150,7 +150,7 @@ http://magyar-iptv.club:8080/live/h9W9W3RafN/3nZYPTFchQ/61.m3u8
 
 #EXTINF:-1 tvg-logo="https://epgx.site/p/21-kanal-uzhgorod.png",Ужгород 21
 rtmp://213.174.8.15:1935/live/danio
-#EXTINF:-1 tvg-id="2194" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/1%2B1_Marafon_%282022%29.svg/512px-1%2B1_Marafon_%282022%29.svg.png",1+1 Марафон HD UA 
+#EXTINF:-1 tvg-id="219" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/1%2B1_Marafon_%282022%29.svg/512px-1%2B1_Marafon_%282022%29.svg.png",1+1 Марафон HD UA 
 https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-id="2195" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1200px-2%2B2_logo_2017.svg.png",2+2
 http://str01.ottg.app/7476/video.m3u8?token=86861220c3b965aee286df05b52063aa
