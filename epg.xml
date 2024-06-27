@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="• WaterWave •" generator-info-url="http://waterwave.duckdns.org/epg.html/ version= 1.8a Digi-UPC">
+</channel>
+  <channel id="Spiler2_TV">
+    <display-name lang="hu">Spiler2 TV</display-name>
+    <icon src="https://www.tvmustra.hu/logok/csatikon/spiler2tv.gif" />
