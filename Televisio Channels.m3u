@@ -142,7 +142,8 @@ http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/60.m3u8
 http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/378.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/LifeTvlogo.png",LifeTv
 http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/61.m3u8
-
+#EXTINF:-1 tvg-logo="http://royal.mystatichost.com/tv_logok/Movieschannel.png",BEST BUD SPENCER & TERENCE HILL HD
+http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/95544.m3u8
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="https://epgx.site/p/21-kanal-uzhgorod.png",Ужгород 21
