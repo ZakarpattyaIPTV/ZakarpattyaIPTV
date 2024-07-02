@@ -61,7 +61,7 @@ http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/100.m3u8
 #EXTINF:-1 tvg-id="Spiler2_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Spiler2_2023_wide.png",Spiler2 TV
 http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/101.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1280px-Filmbox_pl.png",Filmbox Basic
-http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/40.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png",Filmbox Family
 http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/42.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Filmbox_extra_pl.png/1024px-Filmbox_extra_pl.png",FilmBox Extra
