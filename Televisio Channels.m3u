@@ -91,7 +91,7 @@ http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/16.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minimax-logo-320.png",Minimax
 http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/70.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png",Sport1 HD
-http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/103.m3u8
+http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/102.m3u8
 #EXTINF:-1 tvg-logo="https://www.frocus.net/images/logotv/original/sport-2.png",Sport2 HD
 http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/104.m3u8
 #EXTINF:-1 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/fishing-hunting.png",Fishing and Hunting
@@ -111,9 +111,9 @@ http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/108.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO HD
 http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/48.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/1200px-HBO_2_%282014%29.svg.png",HBO2
-http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/51.m3u8
+http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/8831.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png",HBO3
-http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/49.m3u8
+http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/8832.m3u8
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/nat_geo_wide.png",National Geographic HD
 http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/78.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",National Geographic Wild
@@ -129,13 +129,11 @@ http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/122.m3u8
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/viasat_history_wide.png",Viasat History SD
 http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/121.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_Explore_Logo.jpg/536px-Viasat_Explore_Logo.jpg",Viasat Explore
-http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/120.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/800px-DisneyChannelEMEA.svg.png",Disney Channel
-http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/382.m3u8
+http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/9213.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/2560px-Cinemax_2016.svg.png",Cinemax 
 http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/14.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinemax_2_%282016%29.png",Cinemax 2
-http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/15.m3u8
+http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/29617.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/571px-History_Logo.svg.png",History HD
 http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/54.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6701.png",Jocky TV
@@ -145,10 +143,7 @@ http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/378.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/LifeTvlogo.png",LifeTv
 http://magyar-iptv.club:8080/live/E9cXpTpRCv/PHMVu7Aetj/61.m3u8
 
-#EXTINF:-1 tvg-logo="",ana választása 76
-https://video1.videa.hu/static/720p/8.2806766.2230413.1.13.1.1?md5=r9ycis5bZjaWtczJdNHEeQ&expires=1719938441
-#EXTINF:-1 tvg-logo="",ana választása 77
-https://video10.videa.hu/static/720p/8.2809348.2118833.1.13.1.1?md5=wv7vkZ4Js6Ou3tP_Fp3DPw&expires=1719938693
+#EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="https://epgx.site/p/21-kanal-uzhgorod.png",Ужгород 21
 rtmp://213.174.8.15:1935/live/danio
