@@ -50,6 +50,8 @@ http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/37.m3u8
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/36.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cool_TV_2010.svg/1200px-Cool_TV_2010.svg.png",Cool HD
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/18.m3u8
+#EXTINF:-1 tvg-id="Sorozat Klub.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sorozatklub_logo.png/1280px-Sorozatklub_logo.png",Sorozat Klub
+http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/134384.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Sorozat_plusz_2018.png",Sorozat +
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/98.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/RTL_Gold_2022.png",RTL Gold
