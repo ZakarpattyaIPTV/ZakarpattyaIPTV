@@ -162,6 +162,8 @@ https://ythls.armelin.one/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
 https://m3u8.ott.blue/watch/7/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1  tvg-id="2084" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/512px-24_Kanal_logo.svg.png",24 Канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/%D0%96%D0%B8%D0%B2%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%B1%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F_%D0%A2%D0%91_Zhyve_%D0%BB%D0%BE%D0%B3%D0%BE.jpg",ЖИВЕ ТЕЛЕБАЧЕННЯ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720043229/ei/fXKFZpHgGoaGi9oPsaSMYA/ip/92.205.15.128/id/loVz9SzR-J0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZQi2JBadddUArPJd1JaMwwB_ZO7mtCC_xRGgiHzQEOPttB7ipaqqCVmHSY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJgmPPMVCguDAPszrhdCegugDUwXhm-oe68sBhzgxT_WAiBxodEwRbfXiCMCahPLOcsUTS-h3_FPz2KDZjsJ9cHgDQ%3D%3D/file/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="",
 
 #EXTINF:-1 tvg-id="inter-plus-ua" tvg-logo="https://epgx.site/p/inter-plus-ua.png",INTER +
