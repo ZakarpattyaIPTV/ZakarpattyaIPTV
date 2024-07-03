@@ -40,7 +40,7 @@ http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/23.m3u8
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/72.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6720.png",Moziverzum HD
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/74.m3u8
-#EXTINF:-1 tvg-id="Magyar Mozi TV (HD).hu" tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/a/a9/Magyar_Mozi_TV_-_logo.png",Magyar Mozi TV (HD).hu
+#EXTINF:-1 tvg-id="Magyar Mozi TV (HD).hu" tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/a/a9/Magyar_Mozi_TV_-_logo.png",Magyar Mozi TV
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/111003.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png",Film+ HD
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/38.m3u8
@@ -58,9 +58,11 @@ http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/88.m3u8
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/93.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Rtl_harom_logo_2022.png",RTL+
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/92.m3u8
+#EXTINF:-1 tvg-id="Mozi Klub.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Moziklub_logo.png/1024px-Moziklub_logo.png",MOZI KLUB
+http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/134382.m3u8
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/spiler1_2023_wide.png",Spíler1 HD
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/100.m3u8
-#EXTINF:-1 tvg-id="Spíler2 TV (HD).hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Spiler2_2023_wide.png",Spíler2 TV (HD).hu
+#EXTINF:-1 tvg-id="Spíler2 TV (HD).hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Spiler2_2023_wide.png",Spíler2 HD
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/101.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1280px-Filmbox_pl.png",Filmbox Basic
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/40.m3u8
@@ -70,6 +72,8 @@ http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/42.m3u8
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/41.m3u8
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FilmBoxPremium-logo.png",Filmbox Premium 
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/43.m3u8
+#EXTINF:-1 tvg-id="Filmbox Stars.hu" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/filmbox_stars_wide.png",Filmbox Stars
+http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/44.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Film4_logo.png",Film4
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/9214.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",Animal Planet HD
