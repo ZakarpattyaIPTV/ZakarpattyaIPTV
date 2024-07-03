@@ -40,6 +40,8 @@ http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/23.m3u8
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/72.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6720.png",Moziverzum HD
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/74.m3u8
+#EXTINF:-1 tvg-id="Magyar Mozi TV (HD).hu" tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/a/a9/Magyar_Mozi_TV_-_logo.png",Magyar Mozi TV (HD).hu
+http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/111003.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png",Film+ HD
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/38.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Filmmania-tp.png",Film Mania
@@ -58,7 +60,7 @@ http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/93.m3u8
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/92.m3u8
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/spiler1_2023_wide.png",Spíler1 HD
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/100.m3u8
-#EXTINF:-1 tvg-id="Spiler2_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Spiler2_2023_wide.png",Sport 2 (HD).hu
+#EXTINF:-1 tvg-id="Spíler2 TV (HD).hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Spiler2_2023_wide.png",Spíler2 TV (HD).hu
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/101.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1280px-Filmbox_pl.png",Filmbox Basic
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/40.m3u8
@@ -144,7 +146,8 @@ http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/378.m3u8
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/61.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s7b2337e6c84630b0/image/ic9ec7e71050c7e6c/version/1565773860/image.png",BUD SPENCER & TERENCE HILL HD
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/95544.m3u8
-#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
 
 #EXTINF:-1 tvg-logo="https://epgx.site/p/21-kanal-uzhgorod.png",Ужгород 21
 rtmp://213.174.8.15:1935/live/danio
@@ -152,18 +155,18 @@ rtmp://213.174.8.15:1935/live/danio
 https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-id="2195" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1200px-2%2B2_logo_2017.svg.png",2+2
 http://str01.ottg.app/7476/video.m3u8?token=86861220c3b965aee286df05b52063aa
-#EXTINF:-1  tvg-id="7843" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ICTV_2_%282022%29.svg/1200px-ICTV_2_%282022%29.svg.png",ICTV 2 HD
+#EXTINF:-1 tvg-id="7843" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ICTV_2_%282022%29.svg/1200px-ICTV_2_%282022%29.svg.png",ICTV 2 HD
 http://ott.watch/stream/4LMG17SVYT/368.m3u8
-#EXTINF:-1  tvg-id="2210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SonceUA_logo.svg/800px-SonceUA_logo.svg.png",Сонце
+#EXTINF:-1 tvg-id="2210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SonceUA_logo.svg/800px-SonceUA_logo.svg.png",Сонце
 http://84.200.70.180:4642/bysid/6920
-#EXTINF:-1  tvg-id="8855" tvg-logo="https://weukraine.tv/user/img/logo/logo-80.png",Ми Україна HD
+#EXTINF:-1 tvg-id="8855" tvg-logo="https://weukraine.tv/user/img/logo/logo-80.png",Ми Україна HD
 https://ythls.armelin.one/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
-#EXTINF:-1  tvg-id="2079" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/800px-Logo_5_Channel.svg.png",5 Канал HD
+#EXTINF:-1 tvg-id="2079" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/800px-Logo_5_Channel.svg.png",5 Канал HD
 https://m3u8.ott.blue/watch/7/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1  tvg-id="2084" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/512px-24_Kanal_logo.svg.png",24 Канал
+#EXTINF:-1 tvg-id="2084" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/512px-24_Kanal_logo.svg.png",24 Канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/%D0%96%D0%B8%D0%B2%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%B1%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F_%D0%A2%D0%91_Zhyve_%D0%BB%D0%BE%D0%B3%D0%BE.jpg",ЖИВЕ ТЕЛЕБАЧЕННЯ
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720043229/ei/fXKFZpHgGoaGi9oPsaSMYA/ip/92.205.15.128/id/loVz9SzR-J0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZQi2JBadddUArPJd1JaMwwB_ZO7mtCC_xRGgiHzQEOPttB7ipaqqCVmHSY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJgmPPMVCguDAPszrhdCegugDUwXhm-oe68sBhzgxT_WAiBxodEwRbfXiCMCahPLOcsUTS-h3_FPz2KDZjsJ9cHgDQ%3D%3D/file/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
 
 #EXTINF:-1 tvg-id="inter-plus-ua" tvg-logo="https://epgx.site/p/inter-plus-ua.png",INTER +
