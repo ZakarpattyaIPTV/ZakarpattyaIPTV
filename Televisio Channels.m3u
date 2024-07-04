@@ -145,9 +145,9 @@ http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/80.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/slager_tv_wide.png",Sláger TV
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/95.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Viasat_film_logo_2022.png/1200px-Viasat_film_logo_2022.png",Viasat Film
-http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/96.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat2_2022.png/640px-Viasat2_2022.png",Viasat2
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/97.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat2_2022.png/640px-Viasat2_2022.png",Viasat2
+http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/96.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/viasat3_wide.png",Viasat3 HD
 http://magyar-iptv.club:8080/live/KuyuaP9NK9/z4PYabvDG5/118.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Viasat6-tp.png/800px-Viasat6-tp.png",Viasat6
