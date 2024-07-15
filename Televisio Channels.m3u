@@ -198,12 +198,6 @@ http://84.200.70.180:4642/bysid/6920
 https://m3u8.ott.blue/watch/7/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-id="2084" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/512px-24_Kanal_logo.svg.png",24 Канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://epgx.site/p/inter-plus-ua.png",INTER +
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Enter-FilmUA_%282013%29.png/1200px-Enter-FilmUA_%282013%29.png",Enter фiльм
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/263.png",HOLLYWOOD
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
