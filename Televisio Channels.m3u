@@ -189,15 +189,21 @@ rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1 tvg-id="2194" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/1%2B1_Marafon_%282022%29.svg/512px-1%2B1_Marafon_%282022%29.svg.png",1+1 Марафон 
 https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-id="2195" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1200px-2%2B2_logo_2017.svg.png",2+2
-http://str01.ottg.app/7476/video.m3u8?token=86861220c3b965aee286df05b52063aa
+http://ca.ukrainske.tv/656/5EA2AF4303AF555/video.m3u8
 #EXTINF:-1 tvg-id="7843" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ICTV_2_%282022%29.svg/1200px-ICTV_2_%282022%29.svg.png",ICTV 2
-http://ott.watch/stream/4LMG17SVYT/368.m3u8
+http://ca.ukrainske.tv/6205/5EA2AF4303AF555/video.m3u8
 #EXTINF:-1 tvg-id="2210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SonceUA_logo.svg/800px-SonceUA_logo.svg.png",Сонце
 http://84.200.70.180:4642/bysid/6920
 #EXTINF:-1 tvg-id="2079" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/800px-Logo_5_Channel.svg.png",5 Канал
 https://m3u8.ott.blue/watch/7/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-id="2084" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/512px-24_Kanal_logo.svg.png",24 Канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://epgx.site/p/inter-plus-ua.png",INTER +
+http://185.163.194.185:6987/102/mpegts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Enter-FilmUA_%282013%29.png/1200px-Enter-FilmUA_%282013%29.png",Enter фiльм
+http://str14.tv/3420/video.m3u8?token=bcedd0051c8d4aa485b37157fbb93cdd
+#EXTINF:-1 tvg-id="" tvg-logo="",HOLLYWOOD
+https://stream2.itv.uz/1443/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
-#EXTINF:-1 tvg-id="inter-plus-ua" tvg-logo="https://epgx.site/p/inter-plus-ua.png",INTER +
