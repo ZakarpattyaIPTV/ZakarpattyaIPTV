@@ -176,10 +176,11 @@ http://magyar-iptv.club:8080/live/rCBd59h7s4/Mc59MXYzkX/60.m3u8
 http://magyar-iptv.club:8080/live/rCBd59h7s4/Mc59MXYzkX/43236.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/LifeTvlogo.png",LifeTv
 http://magyar-iptv.club:8080/live/rCBd59h7s4/Mc59MXYzkX/61.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s7b2337e6c84630b0/image/ic9ec7e71050c7e6c/version/1565773860/image.png",BUD SPENCER & TERENCE HILL HD
-http://magyar-iptv.club:8080/live/rCBd59h7s4/Mc59MXYzkX/95544.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/640px-Epic-Drama-TV.jpg",Epic Drama
 http://magyar-iptv.club:8080/live/rCBd59h7s4/Mc59MXYzkX/7963.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s7b2337e6c84630b0/image/ic9ec7e71050c7e6c/version/1565773860/image.png",BUD SPENCER & TERENCE HILL HD
+http://magyar-iptv.club:8080/live/rCBd59h7s4/Mc59MXYzkX/95544.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
