@@ -114,6 +114,8 @@ http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/115.m3u8
 http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/35.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/220px-Comedy_Central_2018.svg.png",Comedy Central
 http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/17.m3u8
+#EXTINF:-1 tvg-id="Apostol_TV" tvg-logo="https://onlinestream.live/logos/5927.png",Apostol TV
+https://live.apostoltv.hu:443/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minimax-logo-320.png",Minimax
 http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/70.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png",Sport1 HD
