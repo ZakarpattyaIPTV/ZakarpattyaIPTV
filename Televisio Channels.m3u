@@ -114,7 +114,7 @@ http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/115.m3u8
 http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/35.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/220px-Comedy_Central_2018.svg.png",Comedy Central
 http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/17.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Comedy_Central_Family_2019_Logo.svg/512px-Comedy_Central_Family_2019_Logo.svg.png",Comedy Central Family
+#EXTINF:-1 tvg-id="Comedy_Central_Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Comedy_Central_Family_2019_Logo.svg/512px-Comedy_Central_Family_2019_Logo.svg.png",Comedy Central Family
 http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/16.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minimax-logo-320.png",Minimax
 http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/70.m3u8
