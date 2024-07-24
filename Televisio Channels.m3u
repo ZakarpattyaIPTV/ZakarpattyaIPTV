@@ -66,6 +66,8 @@ http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/92.m3u8
 http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/134383.m3u8
 #EXTINF:-1 tvg-id="Moziklub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Moziklub_logo.png/1024px-Moziklub_logo.png",MOZI KLUB
 http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/134382.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/250px-K%C3%B6ly%C3%B6kklub_II.svg.png",Kölyök Klub
+http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/134381.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Paxtv2006logo.jpg",PAX TV
 http://magyar-iptv.club:8080/live/CsBP98ApWZ/YBu97Bm2Zv/27980.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/spiler1_2023_wide.png",Spíler1 HD
