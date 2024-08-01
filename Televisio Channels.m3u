@@ -183,6 +183,9 @@ http://magyar-iptv.club:8080/live/8XftW5zesn/R7yvfztDeX/7963.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s7b2337e6c84630b0/image/ic9ec7e71050c7e6c/version/1565773860/image.png",BUD SPENCER & TERENCE HILL HD
 http://magyar-iptv.club:8080/live/8XftW5zesn/R7yvfztDeX/95544.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="",Megtorlás
+http://magyar-iptv.club:8080/movie/8XftW5zesn/R7yvfztDeX/148201.mkv
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
