@@ -230,14 +230,13 @@ http://158.101.194.132:8888/channel/n78ab16b6/index.m3u8?q=99d798ea83e3f8bc7a2bc
 http://iptv.prosto.tv:7000/ch344/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Друзі
 https://tv.2222.one/ch10.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Viasat Nature ua
+#EXTINF:-1 tvg-id="" tvg-logo="",Viju Nature ua
 http://sc.id-tv.kz/ViasatNature_34_35.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Viasat History ua
-http://sc.id-tv.kz/ViasatHistory_34_35.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Viasat Explore ua
+#EXTINF:-1 tvg-id="" tvg-logo="",Viju History ua
+http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Viju Explore ua
 http://sc.id-tv.kz/ViasatExplorer_34_35.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",АПОСТРОФ
-http://45.153.35.237:8000/play/a03q
+
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
