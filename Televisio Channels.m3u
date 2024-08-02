@@ -204,14 +204,6 @@ http://84.200.70.180:4642/bysid/6920
 https://m3u8.ott.blue/watch/7/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-id="2084" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/512px-24_Kanal_logo.svg.png",24 Канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Новий канал
-http://ca.ukrainske.tv/651/5EA2AF4303AF555/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",СТБ
-http://ca.ukrainske.tv/401/5EA2AF4303AF555/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",НТН
-http://ca.ukrainske.tv/402/5EA2AF4303AF555/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",ТЕТ
-http://ca.ukrainske.tv/405/5EA2AF4303AF555/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",ТВІЙ СЕРІАЛ
 http://45.153.35.237:8000/play/a032
 #EXTINF:-1 tvg-id="" tvg-logo="",ІНТЕР
