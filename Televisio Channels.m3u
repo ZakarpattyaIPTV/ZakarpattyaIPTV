@@ -214,10 +214,6 @@ http://ca.ukrainske.tv/402/5EA2AF4303AF555/video.m3u8
 http://ca.ukrainske.tv/405/5EA2AF4303AF555/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",ТВІЙ СЕРІАЛ
 http://45.153.35.237:8000/play/a032
-#EXTINF:-1 tvg-id="" tvg-logo="",К1
-http://ca.ukrainske.tv/645/5EA2AF4303AF555/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Enter-фільм
-http://ca.ukrainske.tv/648/5EA2AF4303AF555/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",ІНТЕР
 http://45.153.35.237:8000/play/a03u
 #EXTINF:-1 tvg-id="" tvg-logo="",Prokop TV HD UA
