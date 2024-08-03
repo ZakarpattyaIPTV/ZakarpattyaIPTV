@@ -187,7 +187,7 @@ http://magyar-iptv.club:8080/live/cjfGefPQR8/xn3wBMTjNU/7963.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
-#EXTINF:-1 tvg-logo="https://epgx.site/p/21-kanal-uzhgorod.png",Ужгород 21
+#EXTINF:-1 tvg-id="8850" tvg-logo="https://epgx.site/p/21-kanal-uzhgorod.png",Ужгород 21
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1 tvg-id="2194" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/1%2B1_Marafon_%282022%29.svg/512px-1%2B1_Marafon_%282022%29.svg.png",1+1 Марафон 
 https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
@@ -203,17 +203,15 @@ http://84.200.70.180:4642/bysid/6920
 https://m3u8.ott.blue/watch/7/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-id="2084" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/512px-24_Kanal_logo.svg.png",24 Канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/%D0%A2%D0%B2%D1%96%D0%B9_%D1%81%D0%B5%D1%80%D1%96%D0%B0%D0%BB.jpg",ТВІЙ СЕРІАЛ
-http://45.153.35.237:8000/play/a032
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inter_TV-Channel_logo.svg/512px-Inter_TV-Channel_logo.png",ІНТЕР
+#EXTINF:-1 tvg-id="2760" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inter_TV-Channel_logo.svg/512px-Inter_TV-Channel_logo.png",ІНТЕР
 http://45.153.35.237:8000/play/a03u
-#EXTINF:-1 tvg-id="" tvg-logo="https://rybalka.net.ua/promo/main-logo.png",Рибалка
+#EXTINF:-1 tvg-id="2424" tvg-logo="https://rybalka.net.ua/promo/main-logo.png",Рибалка
 http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzd_MeZy6ze455GSSH42UZImcr3Ard2XZDA&s",Viju Nature 
+#EXTINF:-1 tvg-id="2645" tvg-logo="http://epg.one/img/765.png",Viju Nature 
 http://sc.id-tv.kz/ViasatNature_34_35.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NL4Zap1gJ8EsxlDP23puqJq_T15kEeVzWQ&s",Viju History 
+#EXTINF:-1 tvg-id="8940" tvg-logo="http://epg.one/img/277.png",Viju History 
 http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQl99aMzFykpizgoxbIPgInkiW-2dFsWADw&s",Viju Explore 
+#EXTINF:-1 tvg-id="277" tvg-logo="https://epg.one/img/521.png",Viju Explore 
 http://sc.id-tv.kz/ViasatExplorer_34_35.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
