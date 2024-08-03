@@ -34,6 +34,10 @@ http://magyar-iptv.club:8080/live/cjfGefPQR8/xn3wBMTjNU/34368.m3u8
 http://magyar-iptv.club:8080/live/cjfGefPQR8/xn3wBMTjNU/15671.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN HD
 http://magyar-iptv.club:8080/live/cjfGefPQR8/xn3wBMTjNU/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/512px-AXN_White_logo_%282015%29.png",AXN WHITE
+http://magyar-iptv.club:8080/live/cjfGefPQR8/xn3wBMTjNU/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/512px-AXN_Black_logo_%282015%29.png",AXN BLACK
+http://magyar-iptv.club:8080/live/cjfGefPQR8/xn3wBMTjNU/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/512px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel
 http://magyar-iptv.club:8080/live/cjfGefPQR8/xn3wBMTjNU/23.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/1280px-Mozi%2B_logo.svg.png",Mozi+ HD
