@@ -214,8 +214,8 @@ http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
 #EXTINF:-1 tvg-id="277" tvg-logo="https://epg.one/img/521.png",Viju Explore 
 http://sc.id-tv.kz/ViasatExplorer_34_35.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="",Pofa be film
+https://video10.videa.hu/static/480p/5.1577362.2198084.1.13.1.1?md5=BBeV0A2Fmgrqu7b4GGGUgA&expires=1723349890
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
