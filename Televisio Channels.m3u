@@ -211,8 +211,7 @@ http://iptv.prosto.tv:7000/ch344/video.m3u8
 http://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1 tvg-id="8940" tvg-logo="http://epg.one/img/277.png",Viju History 
 http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
-#EXTINF:-1 tvg-id="277" tvg-logo="https://epg.one/img/521.png",Viju Explore 
-http://sc.id-tv.kz/ViasatExplorer_34_35.m3u8
+
 
 #EXTINF:-1 tvg-id="52" tvg-name="BEST BUD SPENCER & TERENCE HILL HD" timeshift="0" tvg-logo="http://royal.mystatichost.com/tv_logok/Movieschannel.png" group-title="MAGYARORSZÁG PREMIUM",BEST BUD SPENCER & TERENCE HILL HD
 http://magyar-iptv.club:8080/live/5DbQrFwau5/8b26jSyeBJ/95544.m3u8
