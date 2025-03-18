@@ -46,21 +46,21 @@ http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/111003.m3u8
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/38.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Filmmania-tp.png",Film Mania
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/37.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Film_cafe_hu.png",FilmCafe
+#EXTINF:-1 tvg-id="Film_Cafe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Film_cafe_hu.png",FilmCafe
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/36.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cool_TV_2010.svg/1200px-Cool_TV_2010.svg.png",Cool 
+#EXTINF:-1 tvg-id="Cool_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cool_TV_2010.svg/1200px-Cool_TV_2010.svg.png",Cool 
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/18.m3u8
 #EXTINF:-1 tvg-id="OzoneTV" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/ozone_tv_2020_wide.png",Ozone TV
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/153410.m3u8
 #EXTINF:-1 tvg-id="SorozatKlub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sorozatklub_logo.png/800px-Sorozatklub_logo.png",Sorozat Klub
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/134384.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Sorozat_plusz_2018.png",Sorozat +
+#EXTINF:-1 tvg-id="Sorozat+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Sorozat_plusz_2018.png",Sorozat+
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/98.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/RTL_Gold_2022.png",RTL Gold
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/88.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rtl_ketto_logo_2022.png",RTL 2 
+#EXTINF:-1 tvg-id="RTL_ketto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rtl_ketto_logo_2022.png",RTL 2 
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/93.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Rtl_harom_logo_2022.png",RTL+
+#EXTINF:-1 tvg-id="RTL_harom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Rtl_harom_logo_2022.png",RTL+
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/92.m3u8
 #EXTINF:-1 tvg-id="RTL_Otthon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTLOtthon_logo.png/640px-RTLOtthon_logo.png",RTL Otthon
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/134383.m3u8
@@ -68,9 +68,9 @@ http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/134383.m3u8
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/134382.m3u8
 #EXTINF:-1 tvg-id="Kolyokklub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/500px-K%C3%B6ly%C3%B6kklub_II.svg.png",Kölyök Klub
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/134381.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Paxtv2006logo.jpg",PAX TV
+#EXTINF:-1 tvg-id="PAX_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Paxtv2006logo.jpg",PAX TV
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/27980.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/spiler1_2023_wide.png",Spíler1 
+#EXTINF:-1 tvg-id="Spiler_TV" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/spiler1_2023_wide.png",Spíler1 
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/100.m3u8
 #EXTINF:-1 tvg-id="Spiler2_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Spiler2_2023_wide.png",Spíler2 
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/307.m3u8
@@ -78,7 +78,7 @@ http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/307.m3u8
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/40.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png",Filmbox Family
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/42.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Filmbox_extra_pl.png/1024px-Filmbox_extra_pl.png",FilmBox Extra
+#EXTINF:-1 tvg-id="Filmbox_Extra_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Filmbox_extra_pl.png/1024px-Filmbox_extra_pl.png",FilmBox Extra
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/41.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FilmBoxPremium-logo.png",Filmbox Premium 
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/43.m3u8
@@ -96,21 +96,21 @@ http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/7964.m3u8
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/101.m3u8
 #EXTINF:-1 tvg-id="Max4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Max4_logo.png",Max4
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/117516.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://onlinestream.live/logos/8271.png",MATCH4
+#EXTINF:-1 tvg-id="Match_4" tvg-logo="https://onlinestream.live/logos/8271.png",MATCH4
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/378.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",Animal Planet
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/prime_wide.png",Prime TV
+#EXTINF:-1 tvg-id="Prime" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/prime_wide.png",Prime
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/86.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",Super TV2
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/107.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://onlinestream.live/logos/7060.png",TV2 Comedy
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/113.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tv2_sef_final_wide.png/250px-Tv2_sef_final_wide.png",TV2 Séf
+#EXTINF:-1 tvg-id="Tv2_Sef" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tv2_sef_final_wide.png/250px-Tv2_sef_final_wide.png",TV2 Séf
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/116.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/tv2_kids_wide.png",TV2 Kids
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/115.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/TV2_klub.png/640px-TV2_klub.png",TV2 Klub
+#EXTINF:-1 tvg-id="TV2Klub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/TV2_klub.png/640px-TV2_klub.png",TV2 Klub
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/35.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/220px-Comedy_Central_2018.svg.png",Comedy Central
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/17.m3u8
@@ -118,15 +118,15 @@ http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/17.m3u8
 https://live.apostoltv.hu:443/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minimax-logo-320.png",Minimax
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/70.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png",Sport1 
+#EXTINF:-1 tvg-id="Sport_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png",Sport1 
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/102.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.internext.cz/wp-content/uploads/2023/09/sport2.png",Sport2 
+#EXTINF:-1 tvg-id="Sport_2" tvg-logo="https://www.internext.cz/wp-content/uploads/2023/09/sport2.png",Sport2 
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/104.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/fishing-hunting.png",Fishing and Hunting
+#EXTINF:-1 tvg-id="The_Fishing_and_Hunting" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/fishing-hunting.png",Fishing and Hunting
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/46.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.png",Eurosport1 
+#EXTINF:-1 tvg-id="Eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.png",Eurosport1 
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/30.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/800px-Eurosport_2_Logo_2015.png",Eurosport2 
+#EXTINF:-1 tvg-id="Eurosport_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/800px-Eurosport_2_Logo_2015.png",Eurosport2 
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/32.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",Paramount Channel
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/85.m3u8
@@ -138,21 +138,21 @@ http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/83.m3u8
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/108.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO 
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/48.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/1200px-HBO_2_%282014%29.svg.png",HBO2
+#EXTINF:-1 tvg-id="HBO_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/1200px-HBO_2_%282014%29.svg.png",HBO2
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/8831.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png",HBO3
+#EXTINF:-1 tvg-id="HBO_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png",HBO3
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/8832.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1200px-Euronews_2016_logo.svg.png",Euronews
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/28305.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/nat_geo_wide.png",National Geographic 
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/78.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",National Geographic Wild
+#EXTINF:-1 tvg-id="Nat_Geo_Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",National Geographic Wild
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/80.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/slager_tv_wide.png",Sláger TV
+#EXTINF:-1 tvg-id="Magyar_Slager_TV" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/slager_tv_wide.png",Sláger TV
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/95.m3u8
 #EXTINF:-1 tvg-id="Viasat_Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Viasat_film_logo_2022.png/1200px-Viasat_film_logo_2022.png",Viasat Film
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/97.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat2_2022.png/640px-Viasat2_2022.png",Viasat2
+#EXTINF:-1 tvg-id="Viasat_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat2_2022.png/640px-Viasat2_2022.png",Viasat2
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/96.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/viasat3_wide.png",Viasat3 
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/118.m3u8
@@ -178,7 +178,7 @@ http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/60.m3u8
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/43236.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/LifeTvlogo.png",LifeTv
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/61.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/640px-Epic-Drama-TV.jpg",Epic Drama
+#EXTINF:-1 tvg-id="Epic_Drama_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/640px-Epic-Drama-TV.jpg",Epic Drama
 http://magyar-iptv.club:8080/live/Rk2hNsybUM/3DH7Cw8qwp/7963.m3u8
 
 
